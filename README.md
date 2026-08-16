@@ -132,7 +132,7 @@ System-Viewer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/system-viewer.git
+git clone https://github.com/tahamat1c/System-Viewer
 ```
 
 Move into the project directory:
