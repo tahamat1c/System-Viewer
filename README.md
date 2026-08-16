@@ -117,10 +117,10 @@ The application uses a dark-themed interface designed for comfortable monitoring
 ```text
 System-Viewer/
 │
-├── system_viewer.py
+├── sys.py
 ├── system_viewer_settings.json
 ├── README.md
-└── requirements.txt
+
 ```
 
 > `system_viewer_settings.json` contains local configuration and should not contain real credentials when committing the project to GitHub.
